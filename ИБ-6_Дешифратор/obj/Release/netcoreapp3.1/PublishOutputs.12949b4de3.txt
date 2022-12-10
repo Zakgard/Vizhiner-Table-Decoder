@@ -1,0 +1,5 @@
+C:\Users\Zakgard\Desktop\ИБ_Вижинер_Декодер\ИБ-6_Дешифратор.exe
+C:\Users\Zakgard\Desktop\ИБ_Вижинер_Декодер\ИБ-6_Дешифратор.dll
+C:\Users\Zakgard\Desktop\ИБ_Вижинер_Декодер\ИБ-6_Дешифратор.deps.json
+C:\Users\Zakgard\Desktop\ИБ_Вижинер_Декодер\ИБ-6_Дешифратор.runtimeconfig.json
+C:\Users\Zakgard\Desktop\ИБ_Вижинер_Декодер\ИБ-6_Дешифратор.pdb

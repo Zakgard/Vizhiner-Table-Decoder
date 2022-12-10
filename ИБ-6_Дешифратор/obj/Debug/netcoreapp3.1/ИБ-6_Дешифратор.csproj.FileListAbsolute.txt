@@ -1,0 +1,14 @@
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\bin\Debug\netcoreapp3.1\ИБ-6_Дешифратор.exe
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\bin\Debug\netcoreapp3.1\ИБ-6_Дешифратор.deps.json
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\bin\Debug\netcoreapp3.1\ИБ-6_Дешифратор.runtimeconfig.json
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\bin\Debug\netcoreapp3.1\ИБ-6_Дешифратор.runtimeconfig.dev.json
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\bin\Debug\netcoreapp3.1\ИБ-6_Дешифратор.dll
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\bin\Debug\netcoreapp3.1\ИБ-6_Дешифратор.pdb
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\obj\Debug\netcoreapp3.1\ИБ-6_Дешифратор.csproj.AssemblyReference.cache
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\obj\Debug\netcoreapp3.1\ИБ-6_Дешифратор.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\obj\Debug\netcoreapp3.1\ИБ-6_Дешифратор.AssemblyInfoInputs.cache
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\obj\Debug\netcoreapp3.1\ИБ-6_Дешифратор.AssemblyInfo.cs
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\obj\Debug\netcoreapp3.1\ИБ-6_Дешифратор.csproj.CoreCompileInputs.cache
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\obj\Debug\netcoreapp3.1\ИБ-6_Дешифратор.dll
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\obj\Debug\netcoreapp3.1\ИБ-6_Дешифратор.pdb
+E:\VS projects\ИБ-6_Дешифратор\ИБ-6_Дешифратор\obj\Debug\netcoreapp3.1\ИБ-6_Дешифратор.genruntimeconfig.cache
